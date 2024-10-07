@@ -27,7 +27,7 @@ async def get_sensor_readings(request):
 @app.route("/shutdown")
 async def shutdown(request):
     request.app.shutdown()
-    return "The server is shutting down..."
+    return "The Server is Shutting Down."
 
 # Static CSS/JSS
 @app.route("/static/<path:path>")
