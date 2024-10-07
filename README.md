@@ -24,3 +24,5 @@ The readings are fetched via HTTP requests and displayed in a user-friendly form
 4. Real-Time Data Visualization:
 The web page displays real-time sensor readings in a tabular or graphical format.
 The data refreshes at regular intervals (e.g., every 5 seconds) to provide updated environmental information.
+
+![Alt text](https://github.com/csgoteresa/RaspberryPiWeatherStation/blob/main/Weather%20Dashboard.png)
